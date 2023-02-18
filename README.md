@@ -1,6 +1,5 @@
-# deep_rl_from_human_preferences   
-Reinforcement Learning Project : Deep Reinforcement Learning from Human Preferences  
-Authors : Abdellahi ELEMINE VALL, Thomas FLOURENT, Yannis MOUDERE   
+# Reinforcement Learning Project : Deep Reinforcement Learning from Human Preferences  
+## Authors : Abdellahi ELEMINE VALL, Thomas FLOURENT, Yannis MOUDERE   
 
 
 With regard to the difficulty to set up an environnment where actual humans spend minutes elicitating their preferences, we considered that the reward function was actually known. We implemented the 'Interaction with the Environment' step of the algorithm presented in the paper.  
